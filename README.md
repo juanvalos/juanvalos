@@ -19,8 +19,10 @@
             <p>You can contact me on <a href = "https://www.linkedin.com/in/juanvaloss/">Linkedin </a> 
             </p>
         </samp>
+            <br/>
         <hr/>
     </div>
+    <br/>
     <br/>
     <div style="text-align: center; margin-top: 20px; margin-top: 90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30"/>
