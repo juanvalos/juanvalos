@@ -4,12 +4,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </head>
 <body>
+    <samp>
+    <h1>Hi! I'm Juan Avalos</h1>
+    </samp>
     <div style="float: left; margin-right: 50px;">
         <img src="images/photo.png" width="260" align="left"/>
     </div>
     <div style = "margin-left: 10px">
         <samp>
-                <h1>Hi! I'm Juan Avalos</h1>
             <strong>CS Student at ITESM</strong>
             <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara . My main goal is to make a change aroud the world with technology an my expertise.</p>
             <ul style = "margin-left: 20px">
