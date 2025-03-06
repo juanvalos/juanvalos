@@ -15,7 +15,7 @@
             <strong>CS Student at ITESM</strong>
             <br/>
             <br/>
-            <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara . My main goal is to make a change around the world with technology and my expertise.</p>
+                <p>I'm a Computer Science student at Tecnológico de Monterrey, Campus Guadalajara, passionate about leveraging technology to drive meaningful change. With a strong foundation in                         software development, cloud computing, and AI, I aim to create impactful solutions that make a difference.</p>
             <ul style = "margin-left: 20px">
                 </li>
                 <br/> 🌌 Currently learning WebDev, Data Structures & Algorithms!
