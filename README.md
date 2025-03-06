@@ -15,10 +15,14 @@
             <strong>CS Student at ITESM</strong>
             <br/>
             <br/>
-                <p>I'm a Computer Science student at Tecnológico de Monterrey, Campus Guadalajara, passionate about leveraging technology to drive meaningful change. With a strong foundation in                         software development, cloud computing, and AI, I aim to create impactful solutions that make a difference.</p>
+                <p>
+                    I'm a Computer Science student at Tecnológico de Monterrey, Campus Guadalajara. I'm passionate about developing new technology to create impactful solutions. 
+                    With experience in full-stack development, cloud computing, and AI, I enjoy building software that solve real-world problems.
+                </p>
+            </ul>
             <ul style = "margin-left: 20px">
                 </li>
-                <br/> 🌌 Currently learning WebDev, Data Structures & Algorithms!
+                <br/> 🚀 Interested in <b>Cloud Computing, </b> <b>Quality Assurane </b> and <b>Data Science</b>.
             </ul>
             <p>You can contact me on <a href = "https://www.linkedin.com/in/juanvaloss/">Linkedin </a> 
             </p>
